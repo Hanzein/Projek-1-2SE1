@@ -1,0 +1,72 @@
+body {
+    font-family: 'sans-serif'
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+	width:80%;
+	margin:0 auto;
+}
+
+.header {
+    background-color : crimson;
+    color:aliceblue;
+    height:100px;
+}
+
+.header-logo {
+    float:left;
+    font-size:25px;
+    padding:35px 40px;
+}
+
+.header-list {
+    float:right;
+    padding:30px 20px;
+}
+
+.banner {
+    height:600px;
+    background-color:maroon;
+    background-image: url(https://i.postimg.cc/mDKH4zH1/Fotobgcafe.jpg);
+    background-size:cover;
+    justify-content: center;
+    align-items: center;
+    margin:none;
+    
+}
+
+.main h2 {
+    color:crimson;
+    text-align: center;
+    padding:275px;
+}
+
+.footer {
+    background-color: crimson;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+
+
+  .Display {
+      height:1000px;
+
+  }
